@@ -1,2 +1,2 @@
 print("Hello Eclipse!")
-print("My Name is...")
+print("Hi Eclipse!")
