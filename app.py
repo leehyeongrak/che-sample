@@ -1,2 +1,1 @@
-print("Hello Eclipse!")
-print("Hi Eclipse!")
+print("commit test")
